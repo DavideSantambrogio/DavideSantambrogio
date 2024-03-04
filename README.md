@@ -1,4 +1,4 @@
-### <div align="center">Ciao 👋, Sono Davide, un Jr. Full Stack Web Developer 🚀</div>
+## <div align="center">Ciao 👋, Sono Davide, un Jr. Full Stack Web Developer 🚀</div>
 <br/>
 💻 Sono un appassionato di tecnologia con una solida base di conoscenze in programmazione. Ho iniziato ad esplorare il campo della programmazione attraverso il corso intensivo presso Boolean, dove ho acquisito competenze sia nel front-end che nel back-end dello sviluppo web.
 <br/>
