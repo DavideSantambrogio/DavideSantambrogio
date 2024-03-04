@@ -1,28 +1,79 @@
-### Hi there 👋
+### <div align="center">Ciao 👋, Sono Davide, un Jr. Full Stack Web Developer 🚀</div>
+<br/>
+💻 Sono un appassionato di tecnologia con una solida base di conoscenze in programmazione. Ho iniziato ad esplorare il campo della programmazione attraverso il corso intensivo presso Boolean, dove ho acquisito competenze sia nel front-end che nel back-end dello sviluppo web.
+<br/>
+<br/>
+📚 Durante il mio percorso formativo, ho lavorato su progetti che mi hanno permesso di consolidare le mie conoscenze pratiche e di sviluppare una solida comprensione delle best practice nel settore.
+<br/>
+<br/>
+📝 Attualmente sto approfondendo ulteriormente le mie competenze lavorando su un progetto full-stack, al fine di affinare le mie abilità e acquisire esperienza pratica nel mondo reale.
+<br/>
+<br/>
+🌱 Sono una persona curiosa e creativa, con una forte propensione al lavoro di squadra. Sono sempre pronto a integrarmi e a contribuire positivamente ad ogni contesto lavorativo.
+<br/>
+<br/>
+🤝 Sono alla ricerca di un'opportunità professionale presso un'azienda che mi dia la possibilità di crescere e di mettere in pratica le mie competenze, contribuendo al successo del team e dell'azienda.
 
-Ciao! 👋
-Benvenuto nel mio profilo GitHub! Sono [tuo nome], un appassionato sviluppatore software con una forte passione per la creazione di soluzioni innovative e per il continuo apprendimento.
+<br/>
 
-Chi sono
-💻 Sviluppatore software con esperienza nelle [tecnologie rilevanti].
-🎓 Laureato in [il tuo campo di studio] con conoscenze solide in [aree pertinenti].
-🚀 Appassionato nella creazione di prodotti che impattino positivamente la vita delle persone.
-📚 Sempre alla ricerca di imparare qualcosa di nuovo e migliorare le mie abilità.
-I miei Progetti Principali
-🌟 Nome del Progetto 1: Breve descrizione del progetto e la sua importanza.
-🌟 Nome del Progetto 2: Breve descrizione del progetto e la sua importanza.
-Contattami
-Se sei interessato a collaborare o vuoi semplicemente fare quattro chiacchiere, non esitare a contattarmi su LinkedIn o via email a [tua email].
+## Competenze: 
+<table><tr><td valign="top" width="50%">
 
-Statistiche GitHub
 
-Linguaggi e Strumenti
-Linguaggi: [Linguaggi di programmazione utilizzati]
-Strumenti: [Tecnologie e strumenti utilizzati]
-Grazie per aver visitato il mio profilo! 😊
 
-<!--
-**DavideSantambrogio/DavideSantambrogio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend  
+<div align="center">    
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="100" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="100" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="100" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="100" /></a>  
+<a href="https://vuejs.org/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="100" /></a>  
+<a href="https://sass-lang.com/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="100" /></a> 
+
+</div>
+
+
+</td><td valign="top" width="50%">
+
+### Backend  
+<div align="center">  
+<a href="https://laravel.com/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="100" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="100" /></a>  
+<a href="https://www.php.net/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="100" /></a>
+<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="100"/></a>
+<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="100"/></a>
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+<br/>  
+
+
+## Github Stats  
+<div "><img src="https://github-readme-stats.vercel.app/api?username=DavideSantambrogio&show_icons=true&count_private=true&hide_border=true"  /></div>  
+
+<br/>  
+
+## Contattami 
+<div >
+<a href="https://github.com/DavideSantambrogio" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>
+<a href="https://www.linkedin.com/in/davide-santambrogio-97b1392b2/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
+
+</div>  
+ 
+
+<br/>  
+
+<div >
+<img src="https://komarev.com/ghpvc/?username=DavideSantambrogio&&style=flat-square"  />
+</div>  
+  
+
+
 
 Here are some ideas to get you started:
 
