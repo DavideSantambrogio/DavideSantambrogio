@@ -30,6 +30,7 @@
 <a href="https://vuejs.org/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="100" /></a>  
 <a href="https://sass-lang.com/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="100" /></a> 
 <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="100" /></a>
+<a href="https://www.chartjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="100" /></a> 
 </div>
 
 
@@ -42,6 +43,7 @@
 <a href="https://www.php.net/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="100" /></a>
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="100"/></a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="100"/></a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="100" /></a>  
 </div>
 
 </td></tr></table>  
